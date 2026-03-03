@@ -1,0 +1,204 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#FFFFFF",
+            "lang-select-color": "#222829",
+            "bg-light": "#227633",
+            "welcome-bonus-bg": "#FFFFFF",
+            "top-games-hover-fg": "#222829",
+            "main-bg": "#ECF5EE",
+            "text": "#222829",
+            "text-black": "#ffffff",
+            "table-head": "#26973D",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#C0413B",
+            "yellow": "#26973D",
+            "yellow-button": "#C0413B",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#26973D",
+            "casino-cards": "#FFFFFF",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#26973D",
+            "providers-back": "#26973D",
+            "faq-label": "#FFFFFF",
+            "bg-footer": "#227633",
+            "copyright": "#e7e7d5",
+            "starColor": "#17d26a",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3805"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3808",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "BoaBoa Casino  Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3809",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "BoaBoa Casino "
+        }
+    },
+    "pages": [
+        {
+            "id": "en-en",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "BoaBoa Casino ",
+                    "title": "BoaBoa Casino: 100% Bonus up to 500 + 200 Free Spins, Tournaments & Jackpots",
+                    "description": " Play thousands of slots and live casino games, claim a strong welcome bonus, enjoy cashback, and join tournaments. Smooth cashier, protected account, fast withdrawals, and daily rewards.",
+                    "canonical": "boaboa-online.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3810",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "boaboa-online.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3811"
+                },
+                "hero": {
+                    "title": "BoaBoa Casino — Bonuses, Slots, Live Games & Fast Payouts",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3812",
+                    "imageSizeModifier": 10,
+                    "imageYModifier": -5,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3813",
+                    "mobileImageSizeModifier": 0,
+                    "mobileImageYModifier": 1,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "",
+                    "items": [
+                        "Thousands of slots with big multipliers.",
+                        "Live casino with true-to-life atmosphere.",
+                        "Jackpots and progressive prize pools.",
+                        "Deposit bonuses and free spins.",
+                        "Tournaments, missions, and daily rewards.",
+                        "Fast payouts and a smooth cashier.",
+                        "Strong data protection and secure verification."
+                    ],
+                    "advantagesAfterText": "We build a comfortable space for exciting play and big moments — from your first spin to your withdrawal. It’s easy to find your favorite genres, activate bonuses, and join ongoing promos. The experience is simple to navigate and packed with variety.\n",
+                    "knowMore": "Know more",
+                    "appTitle": "Boaboa Casino App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3814",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Boaboa Casino App",
+                    "mobileGooglePlayImageTitle": "Boaboa Casino App",
+                    "mobileIosImageTitle": "Boaboa Casino App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About Boaboa Casino",
+                        "description1": "We stand out with rich promo mechanics that keep gameplay fresh and rewarding. We focus on valuable incentives, tournaments, and clear prize-claiming rules.\n",
+                        "items": [
+                            "Weekly cashback up to 15%.",
+                            "Deposit bonus up to 500.",
+                            "Wins up to 50,000x stake."
+                        ],
+                        "description2": "Our casino is a place where you can discover fresh gaming excitement every day and feel the thrill at full speed. We’ve built a large slot library that includes classics, modern mechanics, and titles with high multipliers. If you love the vibe of a real casino floor, our live section brings professional dealers and fast-paced rounds. \n",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3815",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "Navigation is smooth, so you can jump between categories and find games by provider, theme, or popularity in seconds. We regularly run events that add momentum, including seasonal campaigns, game challenges, and tournament races. During these periods, you’ll see extra missions, activity rewards, and special prize pools. New players get a strong start through a welcome package, while active members receive ongoing incentives for participation. Our bonus ecosystem is designed to deliver value not only on your first deposit but also through everyday play. We reward return visits with missions, daily gifts, and themed draws. A dedicated loyalty program supports long-term play with tiers that unlock personal perks and enhanced conditions as you progress. Status growth happens naturally through gameplay, completing tasks, and joining promotions. Convenience matters, so deposits and withdrawals are handled via a clear cashier with popular payment options. We maintain strong security standards to keep your data and transactions protected. Verification helps ensure fairness and transparency and also streamlines future payouts. Our support team is always close by to help with bonuses, payments, and account settings. Mobile play keeps all key features, making it easy to play and join promos in any format. We create an atmosphere where entertainment meets real winning potential, and every event feels like a reason to play bigger. In the end, you get more than games — you get a complete system of fun, rewards, and opportunities to win."
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Boaboa Casino: your comfort — rules, security, support",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nEntry Rules and Responsible Play\n<\/h3>\n\n<p>\nVisiting our casino starts with a quick registration and creating a personal account. We accept adult players only, so age may be confirmed when required. Accurate details are important, because they help keep bonuses and withdrawals smooth and accessible. One person uses one account, which keeps promotions and tournaments fair for everyone. Before you play, we recommend reviewing bonus terms so you can meet wagering requirements confidently. We support a responsible approach: play should remain entertainment, not a way to solve financial problems. That’s why we provide control tools that help you manage activity and budget. We also enforce fair-play standards and respectful behavior in chats and live sections. Any attempt to abuse bonuses or bypass security procedures may lead to restricted operations to protect all players. Payment activity is processed only through your own payment methods to avoid disputes. Our support team is ready to help anytime, including setting limits and finding key features. Following the rules keeps play comfortable, secure, and fully transparent.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nConditions and requirements\n\n\n<\/h4>\n\n <ul>\n            <li>• \nAge and access: adult-only participation; ID documents may be requested for verification.\n\n<\/li>\n            <li>• \nSingle account: one player — one profile for bonuses, tournaments, and withdrawals.\n\n<\/li>\n            <li>• \nAccurate details: name, address, and contacts must match documents to keep payouts smooth.\n\n<\/li>\n            <li>• \nPayment methods: use only payment instruments in your own name to protect funds.\n\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nProhibited actions\n\n\n<\/h4>\n\n <ul>\n            <li>• \nFraud and multi-accounting: creating multiple profiles and exploiting promo mechanics is not allowed.\n\n<\/li>\n            <li>• \nBonus abuse: strategies designed to bypass wagering rules or promo terms are prohibited.\n\n<\/li>\n            <li>• \nChat misconduct: insults, threats, and provocations are not tolerated in chats or live rooms.\n\n<\/li>\n            <li>• \nTechnical manipulation: any interference with site operation or payment flows is forbidden.\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nResponsible play\n\n\n\n<\/h4>\n\n <ul>\n            <li>• \nLimits: set deposit, stake, and time limits to stay in control.\n\n<\/li>\n            <li>• \nBreaks: use time-outs to pause and reset.\n\n<\/li>\n            <li>• \nSelf-exclusion: restrict access temporarily or permanently when needed.\n\n<\/li>\n            <li>• \nSupport: we’ll guide you to safety options and help keep play comfortable.\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nLicensing & Data Protection: Security at Every Step\n<\/h3>\n\n<p>\nWe operate under an international gaming license and follow established requirements for transparency and player protection. Licensing standards set expectations for fair play, identity checks, and secure payment handling. We maintain internal controls so rules and terms remain clear and applied consistently. Our goal is for you to feel confident from registration to gameplay and withdrawals.\n\n<\/p>\n<br>\n\n\n<p>\nData protection starts the moment you enter: traffic is encrypted with modern protocols that safeguard information in transit. We use proven security measures to prevent personal data from reaching third parties. Access to sensitive information is restricted, role-based, and monitored, while account activity is protected with security settings. Additional monitoring systems help detect and stop suspicious behavior early.\n\n<\/p>\n<br>\n<p>\nFinancial security is built around verification and confirmed operations. We apply KYC procedures and source-of-funds checks as part of strong anti-fraud and anti-abuse practices. This protects your balance and helps prevent unauthorized transactions. Payment data is processed through secure channels and trusted solutions, while transaction history is retained to maintain transparency.\n\n<\/p>\n<br>\n<p>\nOur privacy policy explains what data we collect, why we need it, and how long we keep it. We use information only to deliver the service, calculate bonuses, support your account, and meet legal obligations. You can control parts of your privacy preferences in your profile and choose how you receive notifications. We do not sell personal data and do not use it for purposes unrelated to the service.\n\n<\/p>\n<br>\n<p>\nWe also focus on game integrity and reliable outcomes. Games run on certified randomness mechanisms, and the live section is built around transparent dealing and betting flows. Quality control keeps gameplay stable and payouts aligned with the rules. If you ever have questions about security or privacy, support will help you navigate settings and documentation.\n\n<\/p>\n<br>\n\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nDeposits & Withdrawals: Fast, Simple, Secure\n<\/h3>\n\n<p> \nWe designed our cashier to be straightforward, so you can fund your balance and withdraw winnings with minimal steps. Popular payment options are available, including bank cards, e-wallets, and crypto, depending on your account currency and profile availability. Deposits are typically instant, allowing you to start playing and activating bonuses right away. Before your first withdrawal, we run identity verification to protect your account and speed up future payouts. We use secure payment channels and safety checks to reduce the risk of unauthorized transactions. Withdrawal requests take only a few clicks in your account and appear in your transaction history. Processing time depends on the method: e-wallets and crypto are usually faster, while cards and bank transfers may take longer. After we approve a payout, final settlement speed is handled by the payment provider and your bank. We recommend using one primary payment method to keep withdrawals consistent and predictable. Withdrawal limits depend on account status and can grow as you progress in loyalty tiers. Everything stays transparent: the cashier shows available methods, potential provider fees (if any), and expected timelines. If you need help, support will suggest the best option and explain your request status.\n\n<\/p><br>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #ffffff;font-size:14px\">\n  <thead>\n    <tr style=\"background-color: #17D26A;\">\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Method<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Deposit speed<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Payout after approval<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Bank cards (Visa \/ Mastercard)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">1–3 business days<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>E-wallets (Skrill \/ Neteller)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0–24 hours<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>MiFinity \/ Jeton \/ similar wallets<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0–24 hours<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Payz (ecoPayz) and alternatives<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0–24 hours<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Instant bank transfer options<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">5–15 minutes<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">1–2 business days<\/td>\n    <\/tr>\n\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Bank transfer<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">1–24 hours<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">1–5 business days<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Crypto (BTC \/ ETH \/ USDT and more)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">5–30 minutes<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0–24 hours<\/td>\n    <\/tr>\n\n      <\/tbody>\n<\/table>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nMinimum withdrawal & limits\n\n\n<\/h4>\n\n <ul>\n            <li>• \nMinimum withdrawal: from 20 units of your account currency (may vary by method).\n\n<\/li>\n            <li>• \nDaily maximum: up to 500 on base status, rising to 1,500 on higher tiers.\n\n<\/li>\n            <li>• \nMonthly maximum: up to 7,000 on base status, rising to 20,000 on higher tiers.\n\n<\/li>\n\n        <\/ul><br>\n\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nCustomer Support: Fast Help 24\/7\n<\/h3>\n\n<p>\nWe built our support to deliver clear answers without long waits or unnecessary steps. The main channel is live chat, which opens instantly and resolves most questions in real time. For more detailed requests, we handle email messages, which is perfect when you need to attach documents or clarify account details. Phone support is also available when you want a quick, direct consultation. We aim to respond in chat fast, typically within minutes, and handle email within a practical timeframe while prioritizing accuracy and security. Our team focuses on friendly service and actionable guidance so you can apply steps immediately. We help with bonuses, cashier questions, gameplay, verification, profile settings, and responsible play tools. When an issue is complex, we stay with you until it’s resolved and keep the context so you don’t need to repeat details. We support multiple languages and match you with an agent who can communicate smoothly. Inside the chat, you can check withdrawal status, promo terms, and document requirements. We value your time, so our answers stay focused and step-by-step. After the conversation, you can rate the experience, and we use that feedback to improve.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nContact channels\n\n\n<\/h4>\n\n <ul>\n            <li>• \nLive chat: fast answers for gameplay, bonuses, and payments.\n\n<\/li>\n            <li>• \nEmail: best for documents, complex topics, and request history.\n\n<\/li>\n            <li>• \nPhone: direct help when speed matters.\n\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nResponse time & quality\n\n\n<\/h4>\n\n <ul>\n            <li>• \nChat: typically 1–5 minutes to first reply, then guided to completion.\n\n<\/li>\n            <li>• \nEmail: typically within 24 hours, with accuracy and security first.\n\n<\/li>\n            <li>• \nPhone: quick contact for key scenarios.\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nLanguages\n\n\n<\/h4>\n\n <ul>\n            <li>• \nSupport is available in multiple languages, and the interface makes help and settings easy to navigate.\n\n\n<\/li>\n           \n        <\/ul><br>\n"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Entertainment and Gaming at Boaboa Casino",
+                        "description": "\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nLoyalty Program: Tiers, Bonuses, and Personal Perks\n<\/h3>\n<p>\nOur loyalty program is built for players who love consistent rewards and stronger perks as they play. You earn a status that reflects your activity and unlocks extra opportunities in bonuses and service. Joining is easy: register and play — progress is tracked automatically through real-money wagering. The mechanics are straightforward: the more you take part in slots, live games, and events, the faster your level grows. Higher tiers unlock increased cashback, personal offers, and improved withdrawal limits. We also introduce seasonal progress boosters so you can climb tiers faster during promo campaigns. At upper levels you receive priority service and individualized rewards that make play even more valuable. The program includes recurring gifts such as bonus funds, free spins, and exclusive missions. We reward consistency, so additional perks are often tied to weekly and monthly results. Everything is transparent in your profile, where you can see your current tier, points, perks, and goals for the next level. Loyalty benefits can be combined with most events and tournaments, boosting your overall rewards. In the end, every wager moves you closer to new perks and a more comfortable experience.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nRegistration conditions\n\n\n<\/h4>\n\n <ul>\n            <li>• \n1 account — 1 participation: available to every registered player.\n\n<\/li>\n            <li>• \nAuto-enrollment: activates after profile confirmation and first real-money play.\n\n<\/li>\n            <li>• \nPoints earning: points come from real wagers; weights may vary by game category.\n\n<\/li>\n            <li>• \nProgress tracking: tier and points are visible in real time in your profile.\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTiers and how to reach them\n\n\n<\/h4>\n\n <ul>\n            <li>• \nBronze: entry tier after registration and first wagers.\n\n<\/li>\n            <li>• \nSilver: reach the base points threshold through regular activity.\n\n<\/li>\n            <li>• \nGold: consistent play plus participation in promo missions.\n\n<\/li>\n            <li>• \nPlatinum: high wagering volume and frequent tournaments\/events.\n\n<\/li>\n\t    <li>• \nDiamond: top tier for maximum long-term activity and progress.\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nBonuses & perks\n<\/h4>\n\n <ul>\n            <li>• \nCashback: up to 15% weekly — returns a share of activity as bonus funds.\n\n<\/li>\n            <li>• \nFree spins: up to 200 FS per month — awarded in packs for milestones and tiers.\n<\/li>\n            <li>• \nPersonal bonuses: up to 500 on special deposits — tier-based offers.\n\n<\/li>\n            <li>• \nDaily rewards: up to 1 Bonus Crab per day — chance for an instant prize.\n\n<\/li>\n\t    <li>• \nImproved withdrawal limits: up to 1,500\/day and 20,000\/month at higher tiers.\n\n<\/li>\n\t    <li>• \nPriority support: faster handling and personal guidance.\n\n<\/li>\n\t    <li>• \nExclusive missions: special tasks with boosted rewards for Gold+ tiers.\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBonuses & Promotions: Free Spins, Cashback, Tournaments, Seasonal Events\n<\/h3>\n\n<p>\nWe keep a vibrant bonus ecosystem so you always have an extra reason to play and win. Right after registration, you get welcome offers that boost your start with extra balance and free spins. From there, ongoing promotions take over: reload bonuses, weekly cashback, and daily rewards for activity. We often run seasonal campaigns with themed games, missions, and increased prize pools. During these periods, you can earn additional free spins by completing tasks or taking part in events. For competitive players, we host tournaments with slot races and leaderboards where you climb rankings and claim prizes. Live-play fans also get dedicated offers that add value to table action and can trigger bonus returns. Within promotions, you’ll see “drops” and “rewards” mechanics where prizes come from regular play: spins, wagers, and mission completion. Rewards vary from free spins and bonus funds to special event tickets. We make requirements easy to understand, showing duration, rules, and prize details directly in the promo section. Many offers can be combined with tournaments, increasing how often you earn rewards. A special focus goes to daily gifts that keep momentum and give you a new chance to score a prize every day. We also create personalized deals based on activity so offers match your preferred game styles. The result is an always-refreshing set of opportunities for both new and long-term play. Winning potential is amplified not only by bonuses but also by high-multiplier games. In selected slots, wins can reach up to 50,000x stake, while promo mechanics add even more excitement. Our goal is to keep valuable deals and events readily available at all times. That’s why we update promos regularly and introduce new competition formats. Play becomes more than wagers — it becomes a rewarding journey of missions, prizes, and wins.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nBonuses & special offers\n<\/h4>\n\n <ul>\n            <li>• \nWelcome bonus: up to 100% deposit match + up to 200 FS — stronger start and more spins.\n\n<\/li>\n            <li>• \nReload bonuses: up to 50% on repeat deposits — ongoing value for regular play.\n\n<\/li>\n            <li>• \nWeekly cashback: up to 15% — returns a share of activity as bonus funds.\n\n<\/li>\n            <li>• \nLive cashback: up to 25% in selected promos — extra value for live action.\n<\/li>\n\t    <li>• \nDaily rewards: Bonus Crab once per day — chance for an instant prize.\n\n<\/li>\n\t    <li>• \nMission free spins: packs of 10–50 FS for completing tasks — quick and clear rewards.\n\n<\/li>\n\t    <li>• \nSlot tournaments: prize pools up to 5,000 — leaderboard rewards for top ranks.\n\n<\/li>\n\t    <li>• \nDrops & Wins campaigns: prize pools up to 2,000,000 in major seasons — rewards from gameplay activity.\n\n<\/li>\n\t    <li>• \nSeasonal events: themed tasks and draws — extra prizes and free spins.\n\n<\/li>\n\t    <li>• \nPersonal offers: bonuses up to 500 based on activity — tailored to your favorite game categories.\n\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nGames & Betting: Slots, Live Casino, Table Games, and More\n<\/h3>\n\n<p>\nWe offer a broad range of entertainment so you can choose the perfect style — from relaxed classic slots to fast-paced live sessions. In our slot lobby you’ll find different volatility profiles, bonus mechanics, and high multipliers, including popular series and fresh releases. Strategy fans can enjoy table games with multiple betting limits and quick rounds. Our live casino brings a real-floor atmosphere with professional dealers, HD streams, and smooth betting interfaces. We also feature instant games and crash formats where tempo and timing matter most. Competitive players benefit from tournaments and leaderboards built into the ecosystem, keeping rewards consistent. Search and filters help you find games by provider, theme, or popularity in seconds. Many titles are available in demo mode so you can test mechanics before real-money play. Mobile keeps everything essential: game catalog, promos, cashier, and support. We refresh the library regularly with new launches and events around trending games. If betting is enabled in your profile, you can enjoy an additional format within the same account. Overall, you always have options — slots, live tables, quick games, and competitions.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nKey categories\n\n\n<\/h4>\n\n <ul>\n            <li>• \nSlots: classics, Megaways styles, Hold&Win mechanics, bonus buy, and high multipliers.\n\n<\/li>\n            <li>• \nJackpots: progressive and fixed — built for big-prize chasing.\n\n<\/li>\n            <li>• \nRoulette: European and special variants, including live tables.\n\n<\/li>\n            <li>• \nBlackjack: classic and fast versions with flexible limits.\n\n<\/li>\n\t    <li>• \nBaccarat: popular variants in live and RNG formats.\n\n<\/li>\n\t    <li>• \nLive casino: dealers, game shows, and fast tables in HD quality.\n\n<\/li>\n\t    <li>• \nCrash & instant games: high-tempo formats where exit strategy matters.\n\n<\/li>\n\t    <li>• \nVirtual games: quick events and short rounds for variety.\n\n<\/li>\n\t    <li>• \nBetting (if available): pre-match and live formats, including esports events.\n\n\n<\/li>\n        <\/ul><br>\n\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nMinimum & Maximum Bets: Limits Across Popular Games\n<\/h3>\n\n<p> \nWe provide flexible bet limits so both new players and high-stakes fans can play comfortably. Minimum bets let you test new games and strategies smoothly, while maximum bets unlock high-multiplier potential and bigger bankroll action. Limits depend on the specific title, provider, and chosen live table, so you always see the exact numbers before placing a wager. Below is a clear summary of typical ranges across core categories.\n<\/p><br>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #ffffff;\">\n  <thead>\n    <tr style=\"background-color: #17D26A;\">\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Game Type<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Min Bet<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Max Bet<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Slots<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0.10<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">100<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Jackpot slots<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0.10<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">50<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Roulette (RNG)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0.20<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">2,000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Blackjack (RNG)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0.50<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">2,500<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Live roulette<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0.50<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">10,000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Live blackjack<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">10,000<\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Live baccarat<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">10,000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Crash games<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0.10<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">1,000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Instant games<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0.10<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">500<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Event betting (if available)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0.20<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">20,000<\/td>\n    <\/tr>\n  \n  <\/tbody>\n<\/table>\n<br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nTournaments & Leaderboards: How to Join, Earn Points, and Win\n<\/h3>\n\n<p>\nWe run tournaments and leaderboards to turn regular play into prize-driven competition. Participation starts automatically once you opt into the event and play eligible real-money games. Points are awarded for activity, most commonly based on wager amount, number of spins\/rounds, and total turnover during the tournament window. Some events include point multipliers for selected games or providers, helping you climb faster. We also apply time-based tie-breaks: if points match, the earlier achievement ranks higher. Your current position updates in real time in the tournament widget, with progress visible in your account area. When the event ends, we lock results, verify rule compliance, and credit prizes to winners. Rewards can include cash prizes, bonus funds, free spins, and special tickets for future events. Claiming is easy: rewards appear automatically in your balance or bonus section after finalization. If additional confirmation is needed, you’ll see a notification with simple steps inside your account. We keep tournaments frequent so you always have a new chance to race and boost your winning potential. That way, each session gains extra purpose — you play not only for in-game outcomes but also for a leaderboard position.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nQuick tips\n\n\n<\/h4>\n\n <ul>\n            <li>• \nHow to join: open Promotions → select a tournament → tap “Join” → play eligible titles.\n\n<\/li>\n            <li>• \nHow points work: wagering turnover + spins\/rounds; sometimes multipliers on selected games.\n\n<\/li>\n            <li>• \nWhat affects ranking: total activity, meeting conditions, and earlier results on ties.\n\n<\/li>\n            <li>• \nHow to track position: tournament widget and leaderboard tab in Promotions.\n\n<\/li>\n\t    <li>• \nHow to receive prizes: automatic credit to balance\/bonus section after the event is verified.\n\n<\/li>\n\t    <li>• \nHow to win more often: focus on eligible games with comfortable stakes and steady spin pace.\n\n\n<\/li>\n\n        <\/ul><br>\n\n\n\n"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "Do slots have demo mode?",
+                            "answer": "Many slots offer demo play so you can learn the mechanics before switching to real money.\n\n\n"
+                        },
+                        {
+                            "title": "How long does account verification take?",
+                            "answer": "It’s usually quick after you upload documents; clearer photos and accurate details speed things up.\n\n\n"
+                        },
+                        {
+                            "title": "Where can I see bonus wagering requirements?",
+                            "answer": "Terms are shown in the promotion card and in your bonus section, including time limits, wagering, and eligible games.\n\n\n"
+                        },
+                        {
+                            "title": "How do deposit limits and play control work?",
+                            "answer": "You can set deposit, time, and activity limits, and use time-outs or self-exclusion for full control.\n\n\n"
+                        },
+                        {
+                            "title": "Can I join multiple promotions at once?",
+                            "answer": "Often yes. Many events are compatible, and any restrictions are clearly stated in each promotion’s rules.\n\n\n"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
